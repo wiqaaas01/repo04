@@ -1,1 +1,1 @@
-conflicting content from develop
+add conflict.txt with bugfix content
